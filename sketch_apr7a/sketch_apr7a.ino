@@ -41,7 +41,7 @@ int randomDelay = random(0, 6000);
 delay(randomDelay);
 
   lcd.clear();                 
-  lcd.print("GO!");  // Ask the player to press the button as fast as possible
+  lcd.print("RAHHHHH");  // Ask the player to press the button as fast as possible
 
   unsigned long startTime = millis();  // Record the time right button press
 
